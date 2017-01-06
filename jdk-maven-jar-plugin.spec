@@ -4,7 +4,7 @@
 #
 Name     : jdk-maven-jar-plugin
 Version  : 3.0.2
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2-source-release.zip
 Source0  : http://repo2.maven.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2-source-release.zip
 Summary  : No detailed summary available
